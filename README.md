@@ -23,13 +23,13 @@ Este script automatiza a instalação dos principais aplicativos e ferramentas d
 Via **curl**
 
 ```
-$ curl -O https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/instalar_apps.sh
+$ curl -O https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs/blob/main/instalar_apps.sh
 ```
 
 Via **wget**:
 
 ```
-$ wget https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/instalar_apps.sh
+$ wget https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs/blob/main/instalar_apps.sh
 ```
 
 #### 2. Dê permissão de execução

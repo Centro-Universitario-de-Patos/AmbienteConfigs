@@ -27,13 +27,13 @@ $ sudo apt update && sudo apt install -y curl wget
 - *Download via **curl**:*
 
 ```
-$ curl -O https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs/blob/main/instalar_apps.sh
+$ curl -O https://raw.githubusercontent.com/Centro-Universitario-de-Patos/AmbienteConfigs/main/instalar_apps.sh
 ```
 
 - *Download via **wget**:*
 
 ```
-$ wget https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs/blob/main/instalar_apps.sh
+$ wget https://raw.githubusercontent.com/Centro-Universitario-de-Patos/AmbienteConfigs/main/instalar_apps.sh
 ```
 
 #### 2. Dê permissão de execução

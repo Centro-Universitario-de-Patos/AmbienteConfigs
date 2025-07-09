@@ -8,6 +8,10 @@ sudo apt update && sudo apt upgrade -y
 echo "📦 Instalando dependências básicas..."
 sudo apt install -y curl wget gnupg lsb-release apt-transport-https ca-certificates software-properties-common
 
+echo "🔐 Instalando o servidor SSH (OpenSSH)..."
+sudo apt install -y openssh-server
+sudo systemctl enable --now ssh
+
 echo "🛠️ Instalando snapd..."
 sudo apt install -y snapd
 sudo systemctl enable --now snapd.socket

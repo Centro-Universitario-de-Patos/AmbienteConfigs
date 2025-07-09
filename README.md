@@ -24,13 +24,13 @@ Este script automatiza a instalação dos principais aplicativos e ferramentas d
 $ sudo apt update && sudo apt install -y curl wget
 ```
 
-Via **curl**
+- *Download via **curl**:*
 
 ```
 $ curl -O https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs/blob/main/instalar_apps.sh
 ```
 
-Via **wget**:
+- *Download via **wget**:*
 
 ```
 $ wget https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs/blob/main/instalar_apps.sh

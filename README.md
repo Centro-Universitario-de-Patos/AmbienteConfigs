@@ -18,9 +18,9 @@ Este script automatiza a instalação dos principais aplicativos e ferramentas d
 
 ## 📦 Como usar
 
-1. Baixar arquivo para instalações
+#### 1. Baixar arquivo para instalações
 
-Via **curl**:
+Via **curl**
 
 ```
 $ curl -O https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/instalar_apps.sh
@@ -32,13 +32,13 @@ Via **wget**:
 $ wget https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/instalar_apps.sh
 ```
 
-2. Dê permissão de execução
+#### 2. Dê permissão de execução
 
 ```
 $ chmod +x instalar_apps.sh
 ```
 
-3. Execute o script
+#### 3. Execute o script
 
 ```
 $ ./instalar_apps.sh

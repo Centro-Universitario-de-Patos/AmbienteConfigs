@@ -18,11 +18,18 @@ Este script automatiza a instalação dos principais aplicativos e ferramentas d
 
 ## 📦 Como usar
 
-1. Clone o repositório ou copie o arquivo
+1. Baixar arquivo para instalações
+
+Via **curl**:
 
 ```
-$ git clone https://github.com/Centro-Universitario-de-Patos/AmbienteConfigs.git
-$ cd AmbienteConfigs
+$ curl -O https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/instalar_apps.sh
+```
+
+Via **wget**:
+
+```
+$ wget https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/instalar_apps.sh
 ```
 
 2. Dê permissão de execução

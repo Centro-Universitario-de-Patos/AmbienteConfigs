@@ -20,6 +20,10 @@ Este script automatiza a instalação dos principais aplicativos e ferramentas d
 
 #### 1. Baixar arquivo para instalações
 
+```
+$ sudo apt update && sudo apt install -y curl wget
+```
+
 Via **curl**
 
 ```
